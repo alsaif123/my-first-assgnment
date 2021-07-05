@@ -8,3 +8,26 @@ h1{
 .name{ 
     color: orange;
 }
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(to right, yellow, tomato); 
+    padding: 20px 40px;
+    border-radius: 45px; 
+    
+} 
+.line{
+    margin-bottom: 50px;
+}
+.flex{
+    display: flex; 
+    margin-left: 50px;
+    background-image: url(7.png); 
+    background-repeat: no-repeat;
+}
+.width{
+    width: 50%; 
+   margin-top: 80px;
+}
+.image img{
+    width: 80%;
+}
