@@ -1,0 +1,10 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 60px;
+}
+.name{ 
+    color: orange;
+}
