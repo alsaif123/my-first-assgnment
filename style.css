@@ -2,6 +2,12 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
 }
+.order{
+    color: red;
+} 
+.off{
+color: hotpink;
+}
 h1{
     font-size: 60px;
 }
@@ -66,7 +72,6 @@ h3{
 }
 .box{
     box-shadow: 10px 10px 40px gray;
-    width: 500px;
     margin-left: 5%;    
     margin-right: 5%;
     padding-left: 5px ;  
@@ -108,13 +113,13 @@ h4{
     font-size: 20px;
 }
 footer{
+    margin-top: 50px;
     text-align: center;
 background-color: black;
 height: 200px;
 
 }
 .something{
-    
     font-size: 30px
 }
 
@@ -125,3 +130,18 @@ height: 200px;
 .net{
     color: grey;
 }
+h5{
+    text-align: center;
+    font-size: 40px;
+   background-image: url(7.png); 
+   background-repeat: no-repeat;
+   height: 200px;
+    width: 100%;
+}
+.adress{
+    text-align: right;
+    color:grey; 
+    margin-right: 30px; 
+    font-size: 15px;
+}
+
