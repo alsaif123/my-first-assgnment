@@ -57,3 +57,52 @@ h3{
     margin-left: 30%;
     margin-right: 30%;
 }
+.second-flex{
+    display: flex;
+   margin-left: 60px;
+   margin-top: 50px;
+  
+}
+.box{
+    box-shadow: 10px 10px 40px gray;
+    width: 500px;
+    margin-left: 5%;    
+    margin-right: 5%;
+    padding-left: 5px ;  
+    padding-right: 5px;
+    border-radius: 20px;
+}
+#first-one{
+    width: 100%;
+    border-left: 15px;
+    border-right: 15px;
+    border-image-slice: 1;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-right:15px ;
+}
+#second-one{
+    width: 100%;
+    border-left: 15px ;
+    border-right: 15px;
+    border-image-slice: 1;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-right:15px ;
+}
+#third-one{
+    width: 100%;
+    border-left: 15px;
+    border-right: 15px;
+    border-image-slice: 1;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-right:15px ;
+}
+.third-image{
+    width: 100%;
+
+}
+h4{
+    font-size: 20px;
+}
